@@ -1,0 +1,144 @@
+[
+  {
+    "id": "f575dad5-dd48-4aea-8e59-c1baf6bccfe3",
+    "name": "Snuff",
+    "artist": "Slipknot",
+    "genre": "black metal",
+    "tag": [
+      "favorites"
+    ]
+  },
+  {
+    "id": "5eca02ee-ae46-4ba8-85d8-db8a3bb88bea",
+    "name": "Chop Suey!",
+    "artist": "System of a Down",
+    "genre": "thrash metal",
+    "tag": [
+      "90s",
+      "alternative rock"
+    ]
+  },
+  {
+    "id": "b99e6b6c-eef2-4153-9a03-c05a9a1ce31e",
+    "name": "Give it Away",
+    "artist": "Red Hot Chili Peppers",
+    "genre": "rock",
+    "tag": [
+      "alternative rock"
+    ]
+  },
+  {
+    "id": "ade8b145-f302-4286-9979-763d94e8c5ed",
+    "name": "Dark Necessities",
+    "artist": "Red Hot Chili Peppers",
+    "genre": "rock",
+    "tag": [
+      "favorites"
+    ]
+  },
+  {
+    "id": "e70cce1d-64a8-4666-a3aa-51be0b3cc6e8",
+    "tag": [
+      "asd1",
+      "dsa1"
+    ],
+    "name": "updated1",
+    "artist": "updated1",
+    "genre": "updated1"
+  },
+  {
+    "id": "54b433fd-b639-4b09-8997-2ed9d05bc2b6",
+    "name": "asdsa",
+    "artist": "ddef",
+    "genre": "detg",
+    "tag": []
+  },
+  {
+    "id": "08fdba48-11c7-4bfa-99fc-25f61ae15540",
+    "name": "asdsa",
+    "artist": "ddef",
+    "genre": "detg",
+    "tag": []
+  },
+  {
+    "id": "1f080fb2-624e-4d15-9d12-28b4e77c4ce6",
+    "name": "asdsa",
+    "artist": "ddef",
+    "genre": "detg",
+    "tag": [
+      "dasds",
+      "dasdef"
+    ]
+  },
+  {
+    "id": "211d16a7-9938-4e53-b2f2-6aa355c7b31d",
+    "name": "asdsa",
+    "artist": "ef",
+    "genre": "detg",
+    "tag": [
+      "dasds",
+      "dasdef"
+    ]
+  },
+  {
+    "id": "03eddc5c-6b75-4d5e-af15-e7b8298f25ad",
+    "name": "a2",
+    "artist": "a1",
+    "genre": "as2",
+    "tag": [
+      "a1",
+      "as1",
+      "asd2"
+    ]
+  },
+  {
+    "id": "20c9c19f-8ca9-4a0a-be07-7a8ba91a20ad",
+    "name": "a",
+    "artist": "a",
+    "genre": "as",
+    "tag": [
+      "a",
+      "as"
+    ]
+  },
+  {
+    "id": "cf3c1fce-6953-4a33-99e2-8c8803fbdd83",
+    "name": "a",
+    "artist": "a",
+    "genre": "as",
+    "tag": [
+      "a",
+      "as"
+    ]
+  },
+  {
+    "id": "257ab37b-2c0a-4492-be67-30e2edaa1c58",
+    "name": "a",
+    "artist": "a",
+    "genre": "as",
+    "tag": [
+      "a",
+      "as"
+    ]
+  },
+  {
+    "id": "4cd52fa7-0acd-446d-8383-11f2ed6112a3",
+    "name": "a",
+    "artist": "a",
+    "genre": "as",
+    "tag": [
+      "a",
+      "as"
+    ]
+  },
+  {
+    "id": "7bf94fee-fcaa-47cc-9773-12e57aaea2df",
+    "name": "a",
+    "artist": "a",
+    "genre": "as",
+    "tag": [
+      "a",
+      "as"
+    ]
+  }
+]
