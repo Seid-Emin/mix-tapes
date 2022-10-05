@@ -27,6 +27,7 @@ endpoints:
     - id - 'id' (changes to artist, name, genre, list ot tags or []
 
 - POST: by providing name, artist, genre and optional list of tags
+
     {
         name: 'name',
         artist: 'artist',
