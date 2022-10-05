@@ -11,12 +11,13 @@ endpoints:
 - GET:
     - all - ''
     - byId - ?id=id
+
+- FILTER: 
+    - bySongName - ?name=name
+    - bySongArtist - ?artist=artist
+    - bySongGenre - ?genre=genre
+    - bySongTags - ?tag=tag&tag=tag1 //optiona
         
-    Filter: 
-        - bySongName - ?name=name
-        - bySongArtist - ?artist=artist
-        - bySongGenre - ?genre=genre
-        - bySongTags - ?tag=tag&tag=tag1 //optiona
 
 - DELETE:
     - id - 'id'
